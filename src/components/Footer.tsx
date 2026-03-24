@@ -112,7 +112,7 @@ const Footer = () => {
           </div>
 
           {/* SUBSCRIBE BOX */}
-          <div className="w-full lg:w-auto md:ml-5 bg-[#111]/90 backdrop-blur-sm p-6 sm:p-8 rounded-3xl border border-gray-800/50 flex flex-col items-start">
+          <div className="w-full lg:w-auto md:ml-5 bg-[#0a0a0a] backdrop-blur-sm p-6 sm:p-8 border border-gray-800/50 flex flex-col items-start">
 
             <div className="mb-6 flex justify-center w-full">
               <Image
@@ -124,11 +124,11 @@ const Footer = () => {
               />
             </div>
 
-            <h3 className="text-xl md:text-2xl font-bold mb-1">
+            <h3 className="text-20px md:text-20px font-bold  mb-2">
               Subscribe now
             </h3>
 
-            <p className="text-gray-300 text-sm mb-8">
+            <p className="text-gray-300 text-16px text-sm mb-8">
               Empower Every Mind
             </p>
 
